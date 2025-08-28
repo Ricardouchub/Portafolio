@@ -1,6 +1,6 @@
-# 🗺 Guía de Portafolio de Ricardo
+# 🗺 Guía de Portafolio
 
-¡Bienvenido a mi portafolio de datos! Aquí encontrarás un resumen de mis proyectos en ingeniería de datos, visualización, aprendizaje automático y ciencia de datos.
+Bienvenido a mi portafolio de datos. Aquí encontrarás un resumen de mis proyectos en ingeniería de datos, visualización, aprendizaje automático y ciencia de datos.
 
 ## 📚 Tabla de contenidos
 - [Ingeniería de datos](#ingeniería-de-datos)
