@@ -1,5 +1,5 @@
 <p align="right">
-  <a href="https://github.com/Ricardouchub/Ricardouchub/README.md">
+  <a href="https://github.com/Ricardouchub">
     README Español
   </a>
 </p>
