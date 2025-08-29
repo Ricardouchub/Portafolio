@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Ricardo
 
-I am a former lawyer currently transitioning into the world of **Data Analytics, Data Science, and Data Engineering**.  
+I am a former lawyer currently transitioning into the world of **Data Analytics and Data Science**
 I am passionate about leveraging data to uncover patterns, generate value, and solve complex problems.
 
 This profile showcases my learning journey and growth in the data field.  
-👉 You can explore my [Project Portfolio Guide](#) with practical examples and real-world applications I have developed.
+👉 You can explore my **[Project Portfolio](https://github.com/Ricardouchub/Portafolio/blob/main/README-portfolio-english.md)** with practical examples and real-world applications I have developed.
 
 ---
 
@@ -46,4 +46,4 @@ scikit-learn · XGBoost · LightGBM · Optuna · Transformers (HuggingFace) · S
 
 ---
 
-*This profile is a work in progress. Thanks for stopping by!*
+*Profile is a work in progress. Thanks for stopping by!*
