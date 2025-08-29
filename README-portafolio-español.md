@@ -1,4 +1,4 @@
-# 🗺 Guía de Portafolio
+# 🗺  Portafolio de Proyectos
 
 Bienvenido a mi portafolio de datos. Aquí encontrarás un resumen de mis proyectos en ingeniería de datos, visualización, aprendizaje automático y ciencia de datos.
 
@@ -56,7 +56,6 @@ Bienvenido a mi portafolio de datos. Aquí encontrarás un resumen de mis proyec
 |---|---|---|---|
 | 🚀 [IBM Data Science Capstone](https://github.com/Ricardouchub/IBM-Data-Science-Capstone-Project-for-Coursera) | Ago 2025 | SQL, Python, BeautifulSoup, scikit-learn | Analiza datos de SpaceX para estimar precios de lanzamiento y predecir la reutilización del cohete. |
 | 🧾 [Estrategia de precios – Frescorp](https://github.com/Ricardouchub/Analisis-Estrategico-de-Precios) | Ago 2025 | Python, Pandas, Matplotlib | Estudio ficticio para lanzar una línea de frutas y hortalizas; responde preguntas sobre cartera, precios y cadena de suministro. |
-| 📦 [Ricardouchub perfil](https://github.com/Ricardouchub/Ricardouchub) | Ago 2025 | – | Repositorio personal que describe mi transición de abogado a científico de datos. |
 
 ---
 
