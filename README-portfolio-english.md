@@ -2,7 +2,7 @@
 
 Welcome to my data portfolio! Here you’ll find a summary of my projects across **Data Engineering, Visualization, Machine Learning, NLP, and Data Analysis**.
 
-## 📚 Table of Contents
+## Table of Contents
 - [Data Engineering](#data-engineering)
 - [Visualization & Dashboards](#visualization--dashboards)
 - [NLP & Machine Learning](#nlp--machine-learning)
