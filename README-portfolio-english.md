@@ -1,4 +1,4 @@
-# 🗺 Ricardo's Portfolio Guide
+#  Projects Portfolio 
 
 Welcome to my data portfolio! Here you’ll find a summary of my projects across **Data Engineering, Visualization, Machine Learning, NLP, and Data Analysis**.
 
