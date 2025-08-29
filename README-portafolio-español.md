@@ -1,8 +1,8 @@
-# 🗺  Portafolio de Proyectos
+#  Portafolio de Proyectos
 
 Bienvenido a mi portafolio de datos. Aquí encontrarás un resumen de mis proyectos en ingeniería de datos, visualización, aprendizaje automático y ciencia de datos.
 
-## 📚 Tabla de contenidos
+## Tabla de contenidos
 - [Ingeniería de datos](#ingeniería-de-datos)
 - [Visualización y dashboards](#visualización-y-dashboards)
 - [NLP y aprendizaje automático](#nlp-y-aprendizaje-automático)
