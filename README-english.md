@@ -1,3 +1,9 @@
+<p align="right">
+  <a href="https://github.com/Ricardouchub/README.md">
+    README Español
+  </a>
+</p>
+
 # 👋 Hi, I'm Ricardo
 
 I am a former lawyer currently transitioning into the world of **Data Analytics and Data Science**
