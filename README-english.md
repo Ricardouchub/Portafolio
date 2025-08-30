@@ -48,7 +48,6 @@ scikit-learn · XGBoost · LightGBM · Optuna · Transformers (HuggingFace) · S
 ## Reach me:
 - **[LinkedIn](https://www.linkedin.com/in/ricardourdanetacastro/)**
 - **[Email](mailto:ricardourdanetacastro@gmail.com)**
-- **[GitHub Portfolio](https://github.com/Ricardouchub?tab=repositories)**
 
 ---
 
