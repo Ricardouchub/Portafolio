@@ -13,7 +13,7 @@ Bienvenido a mi portafolio de datos. Aquí encontrarás un resumen de mis proyec
 
 ## Ingeniería de datos
 
-| Proyecto | Fecha (aprox.) | Herramientas | Descripción breve |
+| Proyecto | Fecha | Herramientas | Descripción breve |
 |---|---|---|---|
 | 🔄 [Pipeline r/gaming](https://github.com/Ricardouchub/Streaming-Data-Pipeline-subreddit-gaming) | Ago 2025 | Python, AWS (EC2, RDS), VADER, Dash | Pipeline de streaming que recoge comentarios de r/gaming y realiza análisis de sentimiento. |
 | ⚙️ [Fraude en tiempo real](https://github.com/Ricardouchub/Pipeline-Deteccion-de-fraudes-a-tiempo-real) | Ago 2025 | Python, Redpanda, ClickHouse, FastAPI, Dash | Arquitectura local de streaming y ML para detectar transacciones fraudulentas en tiempo real. |
@@ -24,7 +24,7 @@ Bienvenido a mi portafolio de datos. Aquí encontrarás un resumen de mis proyec
 
 ## Visualización y dashboards
 
-| Proyecto | Fecha (aprox.) | Herramientas | Descripción breve |
+| Proyecto | Fecha | Herramientas | Descripción breve |
 |---|---|---|---|
 | 🌍 [Europe Development Visualizer](https://github.com/Ricardouchub/Europe-Development-Visualizer) | Ago 2025 | Dash, Plotly, Pandas, API Banco Mundial | Dashboard web que compara indicadores de desarrollo entre países europeos utilizando datos en vivo. |
 | 📊 [Desarrollo en Latinoamérica](https://github.com/Ricardouchub/Visualizador-de-Desarrollo-de-Latinoamerica) | Ago 2025 | Dash, Plotly, GeoPandas | Visualizador interactivo de indicadores socioeconómicos para países de Latinoamérica con datos en tiempo real. |
@@ -37,7 +37,7 @@ Bienvenido a mi portafolio de datos. Aquí encontrarás un resumen de mis proyec
 
 ## NLP y aprendizaje automático
 
-| Proyecto | Fecha (aprox.) | Herramientas | Descripción breve |
+| Proyecto | Fecha | Herramientas | Descripción breve |
 |---|---|---|---|
 | 🤖 [Analista IA de Datos](https://github.com/Ricardouchub/Analista-de-datos-app) | Ago 2025 | Gradio, Python, Pandas, Plotly, DeepSeek | Aplicación que permite “conversar” con archivos CSV/Excel; limpia, perfila y genera EDA de forma automática. |
 | 🎬 [Rotten Tomatoes NLP (Parte 1)](https://github.com/Ricardouchub/Rotten-tomatoes-critics-nlp) | Ago 2025 | Python, scikit-learn, NLTK | Análisis exploratorio de más de 1 M de reseñas de cine y modelo predictivo de sentimiento. |
@@ -52,7 +52,7 @@ Bienvenido a mi portafolio de datos. Aquí encontrarás un resumen de mis proyec
 
 ## Ciencia de datos y análisis
 
-| Proyecto | Fecha (aprox.) | Herramientas | Descripción breve |
+| Proyecto | Fecha | Herramientas | Descripción breve |
 |---|---|---|---|
 | 🚀 [IBM Data Science Capstone](https://github.com/Ricardouchub/IBM-Data-Science-Capstone-Project-for-Coursera) | Ago 2025 | SQL, Python, BeautifulSoup, scikit-learn | Analiza datos de SpaceX para estimar precios de lanzamiento y predecir la reutilización del cohete. |
 | 🧾 [Estrategia de precios – Frescorp](https://github.com/Ricardouchub/Analisis-Estrategico-de-Precios) | Ago 2025 | Python, Pandas, Matplotlib | Estudio ficticio para lanzar una línea de frutas y hortalizas; responde preguntas sobre cartera, precios y cadena de suministro. |
@@ -61,7 +61,7 @@ Bienvenido a mi portafolio de datos. Aquí encontrarás un resumen de mis proyec
 
 ## Aplicaciones interactivas
 
-| Proyecto | Fecha (aprox.) | Herramientas | Descripción breve |
+| Proyecto | Fecha | Herramientas | Descripción breve |
 |---|---|---|---|
 | 🧑‍💻 [Analista IA de Datos](https://github.com/Ricardouchub/Analista-de-datos-app) | Ago 2025 | Python, Gradio, DeepSeek, Plotly | Asistente IA que limpia, perfila y analiza tus datos, genera EDA y responde preguntas. |
 | 🧠 [Alzheimer’s Risk App](https://github.com/Ricardouchub/Alzheimers-disease-risk-prediction-project) | Ago 2025 | Streamlit, XGBoost, SHAP | App que calcula el riesgo de Alzheimer y explica cada predicción con SHAP. |
