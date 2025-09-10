@@ -2,23 +2,6 @@
 
 Welcome to my data portfolio! Here you’ll find a summary of my projects across **Data Engineering, Visualization, Machine Learning, NLP, and Data Analysis**.
 
-## Table of Contents
-- [Data Engineering](#data-engineering)
-- [Visualization & Dashboards](#visualization--dashboards)
-- [NLP & Machine Learning](#nlp--machine-learning)
-- [Data Science & Analysis](#data-science--analysis)
-- [Interactive Applications](#interactive-applications)
-
----
-
-## Data Engineering
-
-| Project | Date (approx.) | Tools | Brief Description |
-|---|---|---|---|
-| 🔄 [r/gaming Streaming Pipeline](https://github.com/Ricardouchub/Streaming-Data-Pipeline-subreddit-gaming) | Aug 2025 | Python, AWS (EC2, RDS), VADER, Dash | Real-time streaming pipeline that collects Reddit comments from r/gaming and performs sentiment analysis. |
-| ⚙️ [Real-Time Fraud Detection](https://github.com/Ricardouchub/Pipeline-Deteccion-de-fraudes-a-tiempo-real) | Aug 2025 | Python, Redpanda, ClickHouse, FastAPI, Dash | Local ML streaming architecture to detect fraudulent transactions in real time. |
-| 🩺 [Health News – AWS](https://github.com/Ricardouchub/Pipeline-Noticias-Salud-AWS) | Aug 2025 | AWS Lambda, EventBridge, API Gateway, Streamlit | Serverless pipeline that collects health news, stores them, and exposes an API with an interactive dashboard. |
-| 🛠 [Public Procurement Anomalies](https://github.com/Ricardouchub/Analisis-Mercado-Publico-extraccion-datos-API) | Aug 2025 | AWS Lambda, EventBridge, S3 | Daily pipeline to collect Chile’s public procurement data and detect unusual bidding patterns. |
 
 ---
 
@@ -45,6 +28,18 @@ Welcome to my data portfolio! Here you’ll find a summary of my projects across
 | 🍅 [Fresh Tomato Predictor](https://github.com/Ricardouchub/Fresh-tomato-predictor) | Aug 2025 | scikit-learn, XGBoost, Seaborn | Movie classification model that predicts “Fresh” or “Rotten” based on metadata. |
 | 💳 [E-commerce Fraud Detection](https://github.com/Ricardouchub/Deteccion-de-fraude-en-Ecommerce) | Aug 2025 | Random Forest, XGBoost | Supervised ML model that detects fraudulent transactions with perfect F1-score. |
 | 🎭 [Introverts vs Extroverts](https://github.com/Ricardouchub/Predict-the-Introverts-from-the-Extroverts-Kaggle-Competition) | Aug 2025 | Random Forest
+
+
+---
+
+## Data Engineering
+
+| Project | Date (approx.) | Tools | Brief Description |
+|---|---|---|---|
+| 🔄 [r/gaming Streaming Pipeline](https://github.com/Ricardouchub/Streaming-Data-Pipeline-subreddit-gaming) | Aug 2025 | Python, AWS (EC2, RDS), VADER, Dash | Real-time streaming pipeline that collects Reddit comments from r/gaming and performs sentiment analysis. |
+| ⚙️ [Real-Time Fraud Detection](https://github.com/Ricardouchub/Pipeline-Deteccion-de-fraudes-a-tiempo-real) | Aug 2025 | Python, Redpanda, ClickHouse, FastAPI, Dash | Local ML streaming architecture to detect fraudulent transactions in real time. |
+| 🩺 [Health News – AWS](https://github.com/Ricardouchub/Pipeline-Noticias-Salud-AWS) | Aug 2025 | AWS Lambda, EventBridge, API Gateway, Streamlit | Serverless pipeline that collects health news, stores them, and exposes an API with an interactive dashboard. |
+| 🛠 [Public Procurement Anomalies](https://github.com/Ricardouchub/Analisis-Mercado-Publico-extraccion-datos-API) | Aug 2025 | AWS Lambda, EventBridge, S3 | Daily pipeline to collect Chile’s public procurement data and detect unusual bidding patterns. |
 
 ---
 
