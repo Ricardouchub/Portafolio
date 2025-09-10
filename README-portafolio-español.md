@@ -50,13 +50,3 @@ Bienvenido a mi portafolio de datos. Aquí encontrarás un resumen de mis proyec
 | 🧾 [Estrategia de precios – Frescorp](https://github.com/Ricardouchub/Analisis-Estrategico-de-Precios) | 2025 | Python, Pandas, Matplotlib | Estudio ficticio para lanzar una línea de frutas y hortalizas; responde preguntas sobre cartera, precios y cadena de suministro. |
 | 🏠 [Mercado Inmobiliario Santiago](https://github.com/Ricardouchub/Web-Scraping-Mercadolibre-Inmuebles) | 2025 | Selenium, BeautifulSoup, Pandas, Seaborn | Web scraping y análisis EDA de más de 2 000 anuncios de departamentos en Santiago. |
 
----
-
-## Aplicaciones interactivas
-
-| Proyecto | Año | Herramientas | Descripción breve |
-|---|---|---|---|
-| 🧑‍💻 [Analista IA de Datos](https://github.com/Ricardouchub/Analista-de-datos-app) | 2025 | Python, Gradio, DeepSeek, Plotly | Asistente IA que limpia, perfila y analiza tus datos, genera EDA y responde preguntas. |
-| 🧠 [Alzheimer’s Risk App](https://github.com/Ricardouchub/Alzheimers-disease-risk-prediction-project) | 2025 | Streamlit, XGBoost, SHAP | App que calcula el riesgo de Alzheimer y explica cada predicción con SHAP. |
-
----
