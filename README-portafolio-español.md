@@ -13,7 +13,6 @@ Bienvenido a mi portafolio de datos. Aquí encontrarás un resumen de mis proyec
 | 🛒 [Precios al Consumidor – Chile](https://github.com/Ricardouchub/Analisis-precio-consumidor) | 2025 | Dash, Pandas, Seaborn | Dashboard que analiza la canasta básica en Chile usando más de 1,8 M de registros de ODEPA. |
 | 🔥 [Emisiones difusas – Chile](https://github.com/Ricardouchub/Mapa-Interactivo-de-Emisiones-por-Quemas-y-Combustion-en-Chile) | 2025 | Streamlit, Plotly, Folium | Mapa interactivo para visualizar emisiones de quemas agrícolas, incendios y combustión de leña en Chile. |
 | ☁️ [Clima de Chile (2015-2025)](https://github.com/Ricardouchub/Proyecto-clima-Chile-API-dashboard) | 2025 | Dash, Plotly, Open-Meteo API | Análisis de diez años de datos meteorológicos en las 16 capitales regionales de Chile con dashboard interactivo. |
-| 🏠 [Mercado Inmobiliario Santiago](https://github.com/Ricardouchub/Web-Scraping-Mercadolibre-Inmuebles) | 2025 | Selenium, BeautifulSoup, Pandas, Seaborn | Web scraping y análisis EDA de más de 2 000 anuncios de departamentos en Santiago. |
 
 ---
 
@@ -43,12 +42,13 @@ Bienvenido a mi portafolio de datos. Aquí encontrarás un resumen de mis proyec
 
 ---
 
-## Ciencia de datos y análisis
+## Analisis y ciencia de datos
 
 | Proyecto | Año | Herramientas | Descripción breve |
 |---|---|---|---|
 | 🚀 [IBM Data Science Capstone](https://github.com/Ricardouchub/IBM-Data-Science-Capstone-Project-for-Coursera) | 2025 | SQL, Python, BeautifulSoup, scikit-learn | Analiza datos de SpaceX para estimar precios de lanzamiento y predecir la reutilización del cohete. |
 | 🧾 [Estrategia de precios – Frescorp](https://github.com/Ricardouchub/Analisis-Estrategico-de-Precios) | 2025 | Python, Pandas, Matplotlib | Estudio ficticio para lanzar una línea de frutas y hortalizas; responde preguntas sobre cartera, precios y cadena de suministro. |
+| 🏠 [Mercado Inmobiliario Santiago](https://github.com/Ricardouchub/Web-Scraping-Mercadolibre-Inmuebles) | 2025 | Selenium, BeautifulSoup, Pandas, Seaborn | Web scraping y análisis EDA de más de 2 000 anuncios de departamentos en Santiago. |
 
 ---
 
