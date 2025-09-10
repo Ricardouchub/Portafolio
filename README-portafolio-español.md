@@ -11,17 +11,6 @@ Bienvenido a mi portafolio de datos. Aquí encontrarás un resumen de mis proyec
 
 ---
 
-## Ingeniería de datos
-
-| Proyecto | Año | Herramientas | Descripción breve |
-|---|---|---|---|
-| 🔄 [Pipeline r/gaming](https://github.com/Ricardouchub/Streaming-Data-Pipeline-subreddit-gaming) | 2025 | Python, AWS (EC2, RDS), VADER, Dash | Pipeline de streaming que recoge comentarios de r/gaming y realiza análisis de sentimiento. |
-| ⚙️ [Fraude en tiempo real](https://github.com/Ricardouchub/Pipeline-Deteccion-de-fraudes-a-tiempo-real) |  2025 | Python, Redpanda, ClickHouse, FastAPI, Dash | Arquitectura local de streaming y ML para detectar transacciones fraudulentas en tiempo real. |
-| 🩺 [Noticias de salud – AWS](https://github.com/Ricardouchub/Pipeline-Noticias-Salud-AWS) | 2025 | AWS Lambda, EventBridge, API Gateway, Streamlit, boto3 | Pipeline serverless que recolecta noticias de salud, las almacena y expone una API con dashboard interactivo. |
-| 🛠 [Anomalías Mercado Público](https://github.com/Ricardouchub/Analisis-Mercado-Publico-extraccion-datos-API) | 2025 | AWS Lambda, EventBridge, S3, Boto3 | Pipeline diario para recolectar datos del Mercado Público de Chile y detectar patrones inusuales. |
-
----
-
 ## Visualización y dashboards
 
 | Proyecto | Año | Herramientas | Descripción breve |
@@ -47,6 +36,17 @@ Bienvenido a mi portafolio de datos. Aquí encontrarás un resumen de mis proyec
 | 🎭 [Introverts vs Extroverts](https://github.com/Ricardouchub/Predict-the-Introverts-from-the-Extroverts-Kaggle-Competition) | 2025 | Random Forest, XGBoost, LightGBM | Competencia Kaggle para predecir personalidad; modelo optimizado logra 0.9757 de score. |
 | 🎥 [Recomendador de Películas Spark](https://github.com/Ricardouchub/Sistema-de-Recomendacion-de-Peliculas-con-Apache-Spark) | 2025 | PySpark, MLlib (ALS) | Sistema de filtrado colaborativo basado en MovieLens 32 M que genera recomendaciones personalizadas. |
 | 🧠 [Alzheimer’s Risk Prediction](https://github.com/Ricardouchub/Alzheimers-disease-risk-prediction-project) | 2025 | XGBoost, K-Means, SHAP, Streamlit | Herramienta interactiva que calcula riesgo de Alzheimer, perfila pacientes y explica las predicciones. |
+
+---
+
+## Ingeniería de datos
+
+| Proyecto | Año | Herramientas | Descripción breve |
+|---|---|---|---|
+| 🔄 [Pipeline r/gaming](https://github.com/Ricardouchub/Streaming-Data-Pipeline-subreddit-gaming) | 2025 | Python, AWS (EC2, RDS), VADER, Dash | Pipeline de streaming que recoge comentarios de r/gaming y realiza análisis de sentimiento. |
+| ⚙️ [Fraude en tiempo real](https://github.com/Ricardouchub/Pipeline-Deteccion-de-fraudes-a-tiempo-real) |  2025 | Python, Redpanda, ClickHouse, FastAPI, Dash | Arquitectura local de streaming y ML para detectar transacciones fraudulentas en tiempo real. |
+| 🩺 [Noticias de salud – AWS](https://github.com/Ricardouchub/Pipeline-Noticias-Salud-AWS) | 2025 | AWS Lambda, EventBridge, API Gateway, Streamlit, boto3 | Pipeline serverless que recolecta noticias de salud, las almacena y expone una API con dashboard interactivo. |
+| 🛠 [Anomalías Mercado Público](https://github.com/Ricardouchub/Analisis-Mercado-Publico-extraccion-datos-API) | 2025 | AWS Lambda, EventBridge, S3, Boto3 | Pipeline diario para recolectar datos del Mercado Público de Chile y detectar patrones inusuales. |
 
 ---
 
