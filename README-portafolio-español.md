@@ -35,7 +35,7 @@ Bienvenido a mi portafolio de datos. Aquí encontrarás un resumen de mis proyec
 
 ---
 
-## NLP y aprendizaje automático
+## NLP y ML
 
 | Proyecto | Año | Herramientas | Descripción breve |
 |---|---|---|---|
