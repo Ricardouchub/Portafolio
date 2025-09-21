@@ -41,7 +41,7 @@ MySQL · PostgreSQL
 AWS (EC2, Lambda, RDS, S3, EventBridge) · Google BigQuery · Redpanda · ClickHouse  
 
 **Machine Learning & NLP:**  
-scikit-learn · XGBoost · LightGBM · Optuna · Transformers (HuggingFace) · SHAP  
+scikit-learn · Optuna · Transformers (HuggingFace) · SHAP  
 
 ---
 
