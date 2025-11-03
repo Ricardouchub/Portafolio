@@ -9,10 +9,10 @@ Welcome to my data portfolio! Here you'll find a summary of my projects across *
 | Project | Stack | Brief Description |
 |---|---|---|
 | [Stock Analysis Agent](https://github.com/Ricardouchub/Stock-Analysis-Agent) | LangGraph, Python, Pandas | Local-first research agent that caches market data, computes indicators, surfaces vetted news, and runs rule-based backtests. |
-| [FakeScope Agent](https://github.com/Ricardouchub/FakeScope-Agent) | LangGraph, DeepSeek, Python | Automated fact-checking workflow that cross-references headlines, scores sources, and drafts evidence-backed verdicts. |
+| [FakeScope Agent](https://github.com/Ricardouchub/FakeScope-Agent) | LangGraph, LangSmith, Python | Automated fact-checking workflow that cross-references headlines, scores sources, and drafts evidence-backed verdicts. |
 | [Portfolio RAG Assistant](https://github.com/Ricardouchub/Portfolio-RAG-Assistant) | Python, ChromaDB, BGE-M3 | Retrieval-augmented assistant that embeds local project docs and answers questions with grounded DeepSeek responses. |
 | [Colab ML Pipeline Agent](https://github.com/Ricardouchub/Colab-ML-Pipeline-Agent) | Colab, scikit-learn, Evalcards | End-to-end automation that profiles CSV datasets, builds ML baselines, evaluates metrics, and returns a structured report. |
-| [MCP Hub Ricardo](https://github.com/Ricardouchub/mcp-hub-ricardo) | Python, FastAPI, Google APIs | Custom MCP server that connects Gmail, Calendar, Drive, VSCode, and GitHub to agentic copilots. |
+| [MCP Hub Ricardo](https://github.com/Ricardouchub/mcp-hub-ricardo) | Python, FastMCP | Custom MCP server that connects Gmail, Calendar, Drive, VSCode, and GitHub to agentic copilots. |
 
 ---
 
