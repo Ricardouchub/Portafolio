@@ -53,7 +53,7 @@ Welcome to my data portfolio! Here you'll find a summary of my projects across *
 
 ---
 
-## Data Engineering
+## Data Engineering (Local and Cloud)
 
 | Project | Tools | Brief Description |
 |---|---|---|
@@ -71,4 +71,6 @@ Welcome to my data portfolio! Here you'll find a summary of my projects across *
 | [IBM Data Science Capstone](https://github.com/Ricardouchub/IBM-Data-Science-Capstone-Project-for-Coursera) | SQL, Python, scikit-learn | SpaceX launches dataset analysis predicting costs and rocket reuse probability. |
 | [Price Strategy - Frescorp](https://github.com/Ricardouchub/Analisis-Estrategico-de-Precios) | Python, Pandas, Matplotlib | Fictional case study on strategic pricing for fruits and vegetables. |
 | [Real Estate in Santiago](https://github.com/Ricardouchub/Web-Scraping-Mercadolibre-Inmuebles) | Selenium, BeautifulSoup, Pandas | Web scraping and EDA on 2,000+ apartment listings from Mercadolibre Santiago. |
+| [Diffuse Emissions - Chile](https://github.com/Ricardouchub/Mapa-Interactivo-de-Emisiones-por-Quemas-y-Combustion-en-Chile) | Streamlit, Plotly, Folium | Interactive map showing emissions from agricultural burning, wildfires, and wood combustion in Chile. |
+| [Chile Weather (2015-2025)](https://github.com/Ricardouchub/Proyecto-clima-Chile-API-dashboard) | Dash, Plotly, Open-Meteo API | Ten-year climate analysis across Chile's 16 regional capitals with an interactive dashboard. |
 
