@@ -4,7 +4,7 @@ Aqui encontraras un resumen de mis proyectos en **Análisis de Detos, Visualizac
 
 ---
 
-## Agentes de IA y Automatizacion
+## AI Agents y Automatizacion
 
 | Proyecto | Stack | Descripcion breve |
 |---|---|---|
