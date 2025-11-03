@@ -35,7 +35,7 @@ Aqui encontraras un resumen de mis proyectos en **Análisis de Detos, Visualizac
 | [Latin America Development](https://github.com/Ricardouchub/Visualizador-de-Desarrollo-de-Latinoamerica) | Dash, Plotly, GeoPandas | Visualizador interactivo de indicadores socioeconomicos para Latinoamerica con actualizaciones en vivo. |
 | [Precios al Consumidor - Chile](https://github.com/Ricardouchub/Analisis-precio-consumidor) | Dash, Pandas, Seaborn | Dashboard que analiza la canasta del IPC chileno con mas de 1.8M de registros de precios. |
 | [Emisiones Difusas - Chile](https://github.com/Ricardouchub/Mapa-Interactivo-de-Emisiones-por-Quemas-y-Combustion-en-Chile) | Streamlit, Plotly, Folium | Mapa interactivo de emisiones por quemas agricolas, incendios forestales y combustion residencial en Chile. |
-| [Clima de Chile (2015-2025)](https://github.com/Ricardouchub/Proyecto-clima-Chile-API-dashboard) | Dash, Plotly, Open-Meteo API | Analisis climatico de diez anos para las 16 capitales regionales de Chile con dashboard interactivo. |
+| [Clima de Chile (2015-2025)](https://github.com/Ricardouchub/Proyecto-clima-Chile-API-dashboard) | Dash, Plotly, Open-Meteo API | Analisis climatico de diez años para las 16 capitales regionales de Chile con dashboard interactivo. |
 
 ---
 
@@ -72,5 +72,5 @@ Aqui encontraras un resumen de mis proyectos en **Análisis de Detos, Visualizac
 | [Estrategia de Precios - Frescorp](https://github.com/Ricardouchub/Analisis-Estrategico-de-Precios) | Python, Pandas, Matplotlib | Caso de estudio ficticio sobre estrategia de precios para frutas y verduras. |
 | [Bienes Raices en Santiago](https://github.com/Ricardouchub/Web-Scraping-Mercadolibre-Inmuebles) | Selenium, BeautifulSoup, Pandas | Web scraping y EDA de mas de 2.000 avisos de departamentos en Mercadolibre Santiago. |
 | [Emisiones Difusas - Chile](https://github.com/Ricardouchub/Mapa-Interactivo-de-Emisiones-por-Quemas-y-Combustion-en-Chile) | Streamlit, Plotly, Folium | Mapa interactivo de emisiones por quemas agricolas, incendios forestales y combustion residencial en Chile. |
-| [Clima de Chile (2015-2025)](https://github.com/Ricardouchub/Proyecto-clima-Chile-API-dashboard) | Dash, Plotly, Open-Meteo API | Analisis climatico de diez anos para las 16 capitales regionales de Chile con dashboard interactivo. |
+| [Clima de Chile (2015-2025)](https://github.com/Ricardouchub/Proyecto-clima-Chile-API-dashboard) | Dash, Plotly, Open-Meteo API | Analisis climatico de diez años para las 16 capitales regionales de Chile con dashboard interactivo. |
 
