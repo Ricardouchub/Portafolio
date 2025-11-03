@@ -53,7 +53,7 @@ Aqui encontraras un resumen de mis proyectos en **Análisis de Detos, Visualizac
 
 ---
 
-## Ingenieria de Datos
+## Ingenieria de Datos (Local y Cloud)
 
 | Proyecto | Herramientas | Descripcion breve |
 |---|---|---|
