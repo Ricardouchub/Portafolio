@@ -6,7 +6,7 @@ Welcome to my data portfolio! Here you'll find a summary of my projects across *
 
 ## AI Agents & Automation
 
-| Project | Stack | Brief Description |
+| Project | Stack | Description |
 |---|---|---|
 | [Stock Analysis Agent](https://github.com/Ricardouchub/Stock-Analysis-Agent) | LangGraph, Python, Pandas | Local-first research agent that caches market data, computes indicators, surfaces vetted news, and runs rule-based backtests. |
 | [FakeScope Agent](https://github.com/Ricardouchub/FakeScope-Agent) | LangGraph, LangSmith, Python | Automated fact-checking workflow that cross-references headlines, scores sources, and drafts evidence-backed verdicts. |
@@ -18,7 +18,7 @@ Welcome to my data portfolio! Here you'll find a summary of my projects across *
 
 ## Generative AI & Modeling
 
-| Project | Stack | Brief Description |
+| Project | Stack | Description |
 |---|---|---|
 | [SarcasmDiffusion](https://github.com/Ricardouchub/SarcasmDiffusion) | SDXL, LoRA, PyTorch | Fine-tuned diffusion pipeline that learns sarcastic meme style and produces clean backgrounds ready for captions. |
 | [Sintetizador de Datos](https://github.com/Ricardouchub/Sintetizador-de-datos) | Python | Command-line tool that generates synthetic tabular datasets from CSV inputs while preserving core distributions. |
@@ -29,7 +29,7 @@ Welcome to my data portfolio! Here you'll find a summary of my projects across *
 
 ## Visualization & Dashboards
 
-| Project | Tools | Brief Description |
+| Project | Tools | Description |
 |---|---|---|
 | [Europe Development Visualizer](https://github.com/Ricardouchub/Europe-Development-Visualizer) | Dash, Plotly, Pandas, World Bank API | Web dashboard comparing development indicators across European countries using live data. |
 | [Latin America Development](https://github.com/Ricardouchub/Visualizador-de-Desarrollo-de-Latinoamerica) | Dash, Plotly, GeoPandas | Interactive visualizer of socioeconomic indicators for Latin America with real-time updates. |
@@ -41,7 +41,7 @@ Welcome to my data portfolio! Here you'll find a summary of my projects across *
 
 ## NLP & Machine Learning
 
-| Project | Tools | Brief Description |
+| Project | Tools | Description |
 |---|---|---|
 | [AI Data Analyst](https://github.com/Ricardouchub/Analista-de-datos-app) | Gradio, Python, Pandas, DeepSeek | Interactive app to chat with CSV or Excel files, clean data, and auto-generate EDA. |
 | [Rotten Tomatoes NLP (Part 1)](https://github.com/Ricardouchub/Rotten-tomatoes-critics-nlp) | Python, scikit-learn, NLTK | Exploratory analysis of 1M+ movie reviews and predictive sentiment model. |
@@ -55,7 +55,7 @@ Welcome to my data portfolio! Here you'll find a summary of my projects across *
 
 ## Data Engineering (Local and Cloud)
 
-| Project | Tools | Brief Description |
+| Project | Tools | Description |
 |---|---|---|
 | [r/gaming Streaming Pipeline](https://github.com/Ricardouchub/Streaming-Data-Pipeline-subreddit-gaming) | Python, AWS (EC2, RDS), VADER, Dash | Real-time streaming pipeline that collects Reddit comments from r/gaming and performs sentiment analysis. |
 | [Real-Time Fraud Detection](https://github.com/Ricardouchub/Pipeline-Deteccion-de-fraudes-a-tiempo-real) | Python, Redpanda, ClickHouse, FastAPI, Dash | Local ML streaming architecture to detect fraudulent transactions in real time. |
@@ -66,7 +66,7 @@ Welcome to my data portfolio! Here you'll find a summary of my projects across *
 
 ## Data Science & Analysis
 
-| Project | Tools | Brief Description |
+| Project | Tools | Description |
 |---|---|---|
 | [IBM Data Science Capstone](https://github.com/Ricardouchub/IBM-Data-Science-Capstone-Project-for-Coursera) | SQL, Python, scikit-learn | SpaceX launches dataset analysis predicting costs and rocket reuse probability. |
 | [Price Strategy - Frescorp](https://github.com/Ricardouchub/Analisis-Estrategico-de-Precios) | Python, Pandas, Matplotlib | Fictional case study on strategic pricing for fruits and vegetables. |
