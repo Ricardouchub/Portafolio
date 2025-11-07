@@ -48,7 +48,7 @@ Aquí encontrarás un resumen de mis proyectos en **Análisis de Datos, Visualiz
 | [Rotten Tomatoes NLP (Parte 2)](https://github.com/Ricardouchub/Rotten-tomatoes-critics-nlp-2) | PyTorch, Transformers, Gradio | Modelo bilingüe (EN/ES) de sentimiento con XLM-RoBERTa desplegado en Hugging Face. |
 | [Fresh Tomato Predictor](https://github.com/Ricardouchub/Fresh-tomato-predictor) | scikit-learn, XGBoost, Seaborn | Clasificador que predice si una película será *Fresh* o *Rotten* a partir de *metadata*. |
 | [Detección de Fraude E-commerce](https://github.com/Ricardouchub/Deteccion-de-fraude-en-Ecommerce) | Random Forest, XGBoost | Modelo supervisado que detecta transacciones fraudulentas con F1 perfecto. |
-| [Introverts vs Extroverts](https://github.com/Ricardouchub/Predict-the-Introverts-from-the-Extroverts-Kaggle-Competition) | Random Forest, *Feature Engineering* | Modelo de Kaggle que clasifica tipos de personalidad según respuestas de encuesta. |
+| [Introverts vs Extroverts](https://github.com/Ricardouchub/Predict-the-Introverts-from-the-Extroverts-Kaggle-Competition) | Random Forest, *Feature Engineering* | Participación de una competencia en Kaggle para el desarrollo de un modelo que clasifica tipos de personalidad según respuestas de encuesta. |
 | [Alzheimer's Risk Prediction](https://github.com/Ricardouchub/Alzheimers-disease-risk-prediction-project) | Streamlit, XGBoost, SHAP | App que estima riesgo de Alzheimer y explica variables clave con SHAP. |
 
 ---
