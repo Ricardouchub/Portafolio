@@ -36,6 +36,7 @@ Aquí encontrarás un resumen de mis proyectos en **Análisis de Datos, Visualiz
 | [Precios al Consumidor - Chile](https://github.com/Ricardouchub/Analisis-precio-consumidor) | Dash, Pandas, Seaborn | *Dashboard* que analiza la canasta del IPC chileno con más de 1.8M de registros de precios. |
 | [Emisiones Difusas - Chile](https://github.com/Ricardouchub/Mapa-Interactivo-de-Emisiones-por-Quemas-y-Combustion-en-Chile) | Streamlit, Plotly, Folium | Mapa interactivo de emisiones por quemas agrícolas, incendios forestales y combustión residencial en Chile. |
 | [Clima de Chile (2015-2025)](https://github.com/Ricardouchub/Proyecto-clima-Chile-API-dashboard) | Dash, Plotly, Open-Meteo API | Análisis climático de diez años para las 16 capitales regionales de Chile con *dashboard* interactivo. |
+| [Mercado Laboral Mundial en IA (2025)](https://public.tableau.com/app/profile/ricardo.urdaneta/viz/MercadoLaboralMundialenIA2025/MercadoLaboralMundialenIA2025?publish=yes) | Tableau | Análisis de oportunidades laborales en IA |
 
 ---
 
