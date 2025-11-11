@@ -20,9 +20,8 @@ This profile showcases my learning journey and growth in the data field.
 - Developing interactive dashboards and data pipelines, both cloud-based and locally.
 
 ## I’m currently learning:
-- Advanced **statistics and machine learning** techniques.
+- Advanced **statistics and deep learning** techniques, AI development.
 - Data architecture and **cloud platforms** (AWS, GCP).
-- Best practices in **Data Engineering** and interactive app deployment.
 
 ---
 
