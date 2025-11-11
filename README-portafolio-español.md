@@ -1,6 +1,6 @@
 # Portafolio de Proyectos
 
-Aquí encontrarás un resumen de mis proyectos en **Análisis de Datos, Visualización, Machine Learning, NLP, Ingeniería de Datos y AI Agents**.
+Aquí encontrarás un resumen de mis proyectos en **Análisis de Datos, Dashboards, Machine Learning, NLP, Ingeniería de Datos y AI Generativa, etc**.
 
 ---
 
