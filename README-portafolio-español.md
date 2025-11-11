@@ -12,7 +12,7 @@ Aquí encontrarás un resumen de mis proyectos en **Análisis de Datos, Visualiz
 | [FakeScope Agent](https://github.com/Ricardouchub/FakeScope-Agent) | LangGraph, LangSmith, Python | Agente de verificación de noticias que cruza titulares, puntúa fuentes y redacta veredictos respaldados por evidencia. |
 | [Portfolio RAG Assistant](https://github.com/Ricardouchub/Portfolio-RAG-Assistant) | Python, ChromaDB, BGE-M3 | Asistente RAG que indexa documentación local y responde preguntas con citaciones fundamentadas mediante DeepSeek. |
 | [Colab ML Pipeline Agent](https://github.com/Ricardouchub/Colab-ML-Pipeline-Agent) | Colab, scikit-learn, Evalcards | Agente en Google Colab que perfila *datasets* CSV, construye modelos base, evalúa métricas y entrega reportes estructurados. |
-| [MCP Hub Ricardo](https://github.com/Ricardouchub/mcp-hub-ricardo) | Python, FastMCP, APIs | Servidor MCP personalizado que conecta Gmail, Calendar, Drive, VSCode y GitHub con agentes. |
+| [MCP Hub Personal](https://github.com/Ricardouchub/mcp-hub-personal) | Python, FastMCP, APIs | Servidor MCP personalizado que conecta Gmail, Calendar, Drive, VSCode y GitHub con agentes. |
 
 ---
 
