@@ -8,11 +8,11 @@ Aquí encontrarás un resumen de mis proyectos en **Análisis de Datos, Dashboar
 
 | Proyecto | Stack | Descripción breve |
 |---|---|---|
-| [Stock Analysis Agent](https://github.com/Ricardouchub/Stock-Analysis-Agent) | LangGraph, Python | Agente de *research* que almacena en caché datos de mercado, calcula indicadores, destaca noticias verificadas y ejecuta *backtests* basados en reglas. |
-| [FakeScope Agent](https://github.com/Ricardouchub/FakeScope-Agent) | LangGraph, LangSmith, Python | Agente de verificación de noticias que cruza titulares, puntúa fuentes y redacta veredictos respaldados por evidencia. |
-| [Portfolio RAG Assistant](https://github.com/Ricardouchub/Portfolio-RAG-Assistant) | Python, ChromaDB, BGE-M3 | Asistente RAG que indexa documentación local y responde preguntas con citaciones fundamentadas mediante DeepSeek. |
+| [Stock Analysis Agent](https://github.com/Ricardouchub/Stock-Analysis-Agent) | LangGraph, Python | AI Agent de *research* que almacena en caché datos de mercado, calcula indicadores, destaca noticias verificadas y ejecuta *backtests* basados en reglas. |
+| [FakeScope Agent](https://github.com/Ricardouchub/FakeScope-Agent) | LangGraph, LangSmith, Python | AI Agent de verificación de noticias que cruza titulares, puntúa fuentes y redacta veredictos respaldados por evidencia. |
+| [Portfolio RAG Assistant](https://github.com/Ricardouchub/Portfolio-RAG-Assistant) | Python, ChromaDB, BGE-M3 | RAG assistant que indexa documentación local y responde preguntas con citaciones fundamentadas mediante DeepSeek. |
 | [Colab ML Pipeline Agent](https://github.com/Ricardouchub/Colab-ML-Pipeline-Agent) | Colab, scikit-learn, Evalcards | Agente en Google Colab que perfila *datasets* CSV, construye modelos base, evalúa métricas y entrega reportes estructurados. |
-| [MCP Hub Personal](https://github.com/Ricardouchub/mcp-hub-personal) | Python, FastMCP, APIs | Servidor MCP personalizado que conecta Gmail, Calendar, Drive, VSCode y GitHub con agentes. |
+| [MCP Hub Personal](https://github.com/Ricardouchub/mcp-hub-personal) | Python, FastMCP, APIs | MCP server personalizado que conecta Gmail, Calendar, Drive, VSCode y GitHub con agentes. |
 
 ---
 
