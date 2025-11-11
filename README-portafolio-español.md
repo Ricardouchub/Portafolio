@@ -20,7 +20,7 @@ Aquí encontrarás un resumen de mis proyectos en **Análisis de Datos, Dashboar
 
 | Proyecto | Stack | Descripción breve |
 |---|---|---|
-| [SarcasmDiffusion](https://github.com/Ricardouchub/SarcasmDiffusion) | SDXL, LoRA, PyTorch | *Pipeline* de difusión *fine-tuned* que aprende el estilo de memes sarcásticos y genera fondos limpios listos para *captions*. |
+| [SarcasmDiffusion](https://github.com/Ricardouchub/SarcasmDiffusion) | SDXL, LoRA, PyTorch | Modelo de difusión *fine-tuned* que aprende el estilo de memes sarcásticos y genera fondos limpios listos para *captions*. |
 | [Sintetizador de Datos](https://github.com/Ricardouchub/Sintetizador-de-datos) | Python | Herramienta de línea de comando que genera datos tabulares sintéticos a partir de CSV manteniendo la distribución original. |
 | [Single-Image 3D Reconstruction](https://github.com/Ricardouchub/Single-Image-Reconstruccion-3D) | ResNet-18, PSGN, PyTorch | *Encoder-decoder* CNN que eleva un *frame* RGB a una nube de puntos 3D mediante *point set generation*. |
 | [Code Specialist 7B](https://github.com/Ricardouchub/code-specialist-7b) | Mistral-7B, LoRA, Hugging Face | LLM de 7B parámetros ajustado para razonamiento en Python y SQL orientado a *analytics* y *data science*. |
