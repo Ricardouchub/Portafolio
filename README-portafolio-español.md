@@ -13,6 +13,7 @@ Aquí encontrarás un resumen de mis proyectos en **Análisis de Datos, Dashboar
 | [Portfolio RAG Assistant](https://github.com/Ricardouchub/Portfolio-RAG-Assistant) | Python, ChromaDB, BGE-M3 | RAG assistant que indexa documentación local y responde preguntas con citaciones fundamentadas mediante DeepSeek. |
 | [Colab ML Pipeline Agent](https://github.com/Ricardouchub/Colab-ML-Pipeline-Agent) | Colab, scikit-learn, Evalcards | Agente en Google Colab que perfila *datasets* CSV, construye modelos base, evalúa métricas y entrega reportes estructurados. |
 | [MCP Hub Personal](https://github.com/Ricardouchub/mcp-hub-personal) | Python, FastMCP, APIs | MCP server personalizado que conecta Gmail, Calendar, Drive, VSCode y GitHub con agentes. |
+| [Pokemon Showdown Battle AI Agent](https://github.com/Ricardouchub/pokemonshowdown-random-battle-ai-agent) | Python | Agente autónomo con arquitectura híbrida que compite en un entorno local de Pokemon Showdown |
 
 ---
 
