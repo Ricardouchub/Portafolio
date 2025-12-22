@@ -13,6 +13,8 @@ Welcome to my data portfolio! Here you'll find a summary of my projects across *
 | [Portfolio RAG Assistant](https://github.com/Ricardouchub/Portfolio-RAG-Assistant) | Python, ChromaDB, BGE-M3 | Retrieval-augmented assistant that embeds local project docs and answers questions with grounded DeepSeek responses. |
 | [Colab ML Pipeline Agent](https://github.com/Ricardouchub/Colab-ML-Pipeline-Agent) | Colab, scikit-learn, Evalcards | End-to-end automation that profiles CSV datasets, builds ML baselines, evaluates metrics, and returns a structured report. |
 | [MCP Hub Personal](https://github.com/Ricardouchub/mcp-hub-personal) | Python, FastMCP | Custom MCP server that connects Gmail, Calendar, Drive, VSCode, and GitHub to agentic copilots. |
+| [Pokemon Showdown Battle AI Agent](https://github.com/Ricardouchub/pokemonshowdown-random-battle-ai-agent) | Python | Autonomous Agent designed to compete in Pokemon Showdown Random Battles. Hybrid architecture combines the speed of classical algorithms with the deep reasoning of LLMs |
+
 
 ---
 
