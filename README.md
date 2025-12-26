@@ -28,19 +28,31 @@ This profile showcases my learning journey and growth in the data field.
 ##  Skills & Tools
 
 **Languages:**  
-Python · SQL  
+Python · SQL
 
 **Data Analysis & Visualization:**  
-Pandas · NumPy · Matplotlib · Seaborn · Plotly · Tableau · Dash · Streamlit  
+Pandas · NumPy · Matplotlib · Seaborn · Plotly · Dash · Streamlit · Tableau · Power BI
 
 **Databases:**  
-MySQL · PostgreSQL  
+MySQL · PostgreSQL
 
 **Cloud & Big Data Services:**  
-AWS (EC2, Lambda, RDS, S3, EventBridge) · Google BigQuery · Redpanda · ClickHouse  
+AWS (EC2, Lambda, RDS, S3, EventBridge) · Google BigQuery
 
-**Machine Learning & NLP:**  
-scikit-learn · Optuna · Transformers (HuggingFace) · SHAP  
+**Machine Learning:**  
+scikit-learn (pipelines, metrics) · XGBoost
+
+**Deep Learning:**  
+PyTorch · Transformers
+
+**Interpretability:**  
+SHAP
+
+**NLP:**  
+NLTK · VADER
+
+**AI Agents & LLM Systems:**  
+LangGraph · LangSmith · ChromaDB · MCP / FastMCP
 
 ---
 
