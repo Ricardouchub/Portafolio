@@ -38,6 +38,8 @@ Aquí encontrarás un resumen de mis proyectos en **Análisis de Datos, Dashboar
 | [Emisiones Difusas - Chile](https://github.com/Ricardouchub/Mapa-Interactivo-de-Emisiones-por-Quemas-y-Combustion-en-Chile) | Streamlit, Plotly, Folium | Mapa interactivo de emisiones por quemas agrícolas, incendios forestales y combustión residencial en Chile. |
 | [Clima de Chile (2015-2025)](https://github.com/Ricardouchub/Proyecto-clima-Chile-API-dashboard) | Dash, Plotly, Open-Meteo API | Análisis climático de diez años para las 16 capitales regionales de Chile con *dashboard* interactivo. |
 | [Mercado Laboral Mundial en IA (2025)](https://public.tableau.com/app/profile/ricardo.urdaneta/viz/MercadoLaboralMundialenIA2025/MercadoLaboralMundialenIA2025?publish=yes) | Tableau | Análisis de oportunidades laborales en IA |
+| [Análisis del burnout en Tech](https://github.com/Ricardouchub/Analisis-del-Burnout-en-la-Industria-Tecnologica) | Power BI  | Análisis del burnout laboral en la industria tecnológica |
+
 
 ---
 
@@ -55,17 +57,6 @@ Aquí encontrarás un resumen de mis proyectos en **Análisis de Datos, Dashboar
 
 ---
 
-## Ingeniería de Datos (Local y Cloud)
-
-| Proyecto | Herramientas | Descripción breve |
-|---|---|---|
-| [Streaming Pipeline r/gaming](https://github.com/Ricardouchub/Streaming-Data-Pipeline-subreddit-gaming) | Python, AWS (EC2, RDS), VADER, Dash | *Pipeline* en tiempo real que captura comentarios de Reddit r/gaming y aplica análisis de sentimiento. |
-| [Detección de Fraude en Tiempo Real](https://github.com/Ricardouchub/Pipeline-Deteccion-de-fraudes-a-tiempo-real) | Python, Redpanda, ClickHouse, FastAPI, Dash | Arquitectura local de ML para detectar fraudes en tiempo real. |
-| [Noticias de Salud - AWS](https://github.com/Ricardouchub/Pipeline-Noticias-Salud-AWS) | AWS Lambda, EventBridge, API Gateway, Streamlit | *Pipeline serverless* que recolecta noticias de salud, las almacena y expone un API con *dashboard* interactivo. |
-| [Anomalías en Compras Públicas](https://github.com/Ricardouchub/Analisis-Mercado-Publico-extraccion-datos-API) | AWS Lambda, EventBridge, S3 | Proceso diario que extrae datos de Mercado Público y detecta patrones inusuales de licitación. |
-
----
-
 ## Ciencia y Análisis de Datos
 
 | Proyecto | Herramientas | Descripción breve |
@@ -75,3 +66,15 @@ Aquí encontrarás un resumen de mis proyectos en **Análisis de Datos, Dashboar
 | [Bienes Raíces en Santiago](https://github.com/Ricardouchub/Web-Scraping-Mercadolibre-Inmuebles) | Selenium, BeautifulSoup, Pandas | *Web scraping* y EDA de más de 2.000 avisos de departamentos en MercadoLibre Santiago. |
 | [Emisiones Difusas - Chile](https://github.com/Ricardouchub/Mapa-Interactivo-de-Emisiones-por-Quemas-y-Combustion-en-Chile) | Streamlit, Plotly, Folium | Mapa interactivo de emisiones por quemas agrícolas, incendios forestales y combustión residencial en Chile. |
 | [Clima de Chile (2015-2025)](https://github.com/Ricardouchub/Proyecto-clima-Chile-API-dashboard) | Dash, Plotly, Open-Meteo API | Análisis climático de diez años para las 16 capitales regionales de Chile con *dashboard* interactivo. |
+
+---
+
+## Ingeniería de Datos (Local y Cloud)
+
+| Proyecto | Herramientas | Descripción breve |
+|---|---|---|
+| [Streaming Pipeline r/gaming](https://github.com/Ricardouchub/Streaming-Data-Pipeline-subreddit-gaming) | Python, AWS (EC2, RDS), VADER, Dash | *Pipeline* en tiempo real que captura comentarios de Reddit r/gaming y aplica análisis de sentimiento. |
+| [Detección de Fraude en Tiempo Real](https://github.com/Ricardouchub/Pipeline-Deteccion-de-fraudes-a-tiempo-real) | Python, Redpanda, ClickHouse, FastAPI, Dash | Arquitectura local de ML para detectar fraudes en tiempo real. |
+| [Noticias de Salud - AWS](https://github.com/Ricardouchub/Pipeline-Noticias-Salud-AWS) | AWS Lambda, EventBridge, API Gateway, Streamlit | *Pipeline serverless* que recolecta noticias de salud, las almacena y expone un API con *dashboard* interactivo. |
+| [Anomalías en Compras Públicas](https://github.com/Ricardouchub/Analisis-Mercado-Publico-extraccion-datos-API) | AWS Lambda, EventBridge, S3 | Proceso diario que extrae datos de Mercado Público y detecta patrones inusuales de licitación. |
+
