@@ -34,13 +34,13 @@ Python · SQL
 Pandas · NumPy · Matplotlib · Seaborn · Plotly · Dash · Streamlit · Tableau · Power BI
 
 **Databases:**  
-MySQL · PostgreSQL
+MySQL · PostgreSQL · Microsoft SQL Server
 
-**Cloud & Big Data Services:**  
-AWS (EC2, Lambda, RDS, S3, EventBridge) · Google BigQuery
+**Cloud Services:**  
+AWS (EC2, Lambda, RDS, S3, EventBridge) · GCP (Google BigQuery, GCS)
 
 **Machine Learning:**  
-scikit-learn (pipelines, metrics) · XGBoost
+scikit-learn · XGBoost
 
 **Deep Learning:**  
 PyTorch · Transformers
