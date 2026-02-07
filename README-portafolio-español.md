@@ -4,6 +4,21 @@ Aquí encontrarás un resumen de mis proyectos en **Análisis de Datos, Dashboar
 
 ---
 
+## Visualización y Dashboards
+
+| Proyecto | Herramientas | Descripción breve |
+|---|---|---|
+| [Europe Development Visualizer](https://github.com/Ricardouchub/Europe-Development-Visualizer) | Dash, Plotly, Pandas, World Bank API | *Dashboard* web que compara indicadores de desarrollo entre países europeos con datos en tiempo real. |
+| [Latin America Development](https://github.com/Ricardouchub/Visualizador-de-Desarrollo-de-Latinoamerica) | Dash, Plotly, GeoPandas | Visualizador interactivo de indicadores socioeconómicos para Latinoamérica con actualizaciones en vivo. |
+| [Precios al Consumidor - Chile](https://github.com/Ricardouchub/Analisis-precio-consumidor) | Dash, Pandas, Seaborn | *Dashboard* que analiza la canasta del IPC chileno con más de 1.8M de registros de precios. |
+| [Emisiones Difusas - Chile](https://github.com/Ricardouchub/Mapa-Interactivo-de-Emisiones-por-Quemas-y-Combustion-en-Chile) | Streamlit, Plotly, Folium | Mapa interactivo de emisiones por quemas agrícolas, incendios forestales y combustión residencial en Chile. |
+| [Clima de Chile (2015-2025)](https://github.com/Ricardouchub/Proyecto-clima-Chile-API-dashboard) | Dash, Plotly, Open-Meteo API | Análisis climático de diez años para las 16 capitales regionales de Chile con *dashboard* interactivo. |
+| [Mercado Laboral Mundial en IA (2025)](https://public.tableau.com/app/profile/ricardo.urdaneta/viz/MercadoLaboralMundialenIA2025/MercadoLaboralMundialenIA2025?publish=yes) | Tableau | Análisis de oportunidades laborales en IA |
+| [Análisis del burnout en Tech](https://github.com/Ricardouchub/Analisis-del-Burnout-en-la-Industria-Tecnologica) | Power BI  | Análisis del burnout laboral en la industria tecnológica |
+| [Análisis del desempeño comercial Adidas EE.UU](https://github.com/Ricardouchub/adidas-dashboard-crecimiento-rentabilidad) | Google BigQuery - Looker Studio  | Análisis del desempeño comercial y margen operativo para Adidas EE.UU. (2020-2021) usando BigQuery y Looker Studio. |
+
+---
+
 ## AI Agents y Automatización
 
 | Proyecto | Stack | Descripción breve |
@@ -25,21 +40,6 @@ Aquí encontrarás un resumen de mis proyectos en **Análisis de Datos, Dashboar
 | [Sintetizador de Datos](https://github.com/Ricardouchub/Sintetizador-de-datos) | Python | Herramienta de línea de comando que genera datos tabulares sintéticos a partir de CSV manteniendo la distribución original. |
 | [Single-Image 3D Reconstruction](https://github.com/Ricardouchub/Single-Image-Reconstruccion-3D) | ResNet-18, PSGN, PyTorch | *Encoder-decoder* CNN que eleva un *frame* RGB a una nube de puntos 3D mediante *point set generation*. |
 | [Code Specialist 7B](https://github.com/Ricardouchub/code-specialist-7b) | Mistral-7B, LoRA, Hugging Face | LLM de 7B parámetros ajustado para razonamiento en Python y SQL orientado a *analytics* y *data science*. |
-
----
-
-## Visualización y Dashboards
-
-| Proyecto | Herramientas | Descripción breve |
-|---|---|---|
-| [Europe Development Visualizer](https://github.com/Ricardouchub/Europe-Development-Visualizer) | Dash, Plotly, Pandas, World Bank API | *Dashboard* web que compara indicadores de desarrollo entre países europeos con datos en tiempo real. |
-| [Latin America Development](https://github.com/Ricardouchub/Visualizador-de-Desarrollo-de-Latinoamerica) | Dash, Plotly, GeoPandas | Visualizador interactivo de indicadores socioeconómicos para Latinoamérica con actualizaciones en vivo. |
-| [Precios al Consumidor - Chile](https://github.com/Ricardouchub/Analisis-precio-consumidor) | Dash, Pandas, Seaborn | *Dashboard* que analiza la canasta del IPC chileno con más de 1.8M de registros de precios. |
-| [Emisiones Difusas - Chile](https://github.com/Ricardouchub/Mapa-Interactivo-de-Emisiones-por-Quemas-y-Combustion-en-Chile) | Streamlit, Plotly, Folium | Mapa interactivo de emisiones por quemas agrícolas, incendios forestales y combustión residencial en Chile. |
-| [Clima de Chile (2015-2025)](https://github.com/Ricardouchub/Proyecto-clima-Chile-API-dashboard) | Dash, Plotly, Open-Meteo API | Análisis climático de diez años para las 16 capitales regionales de Chile con *dashboard* interactivo. |
-| [Mercado Laboral Mundial en IA (2025)](https://public.tableau.com/app/profile/ricardo.urdaneta/viz/MercadoLaboralMundialenIA2025/MercadoLaboralMundialenIA2025?publish=yes) | Tableau | Análisis de oportunidades laborales en IA |
-| [Análisis del burnout en Tech](https://github.com/Ricardouchub/Analisis-del-Burnout-en-la-Industria-Tecnologica) | Power BI  | Análisis del burnout laboral en la industria tecnológica |
-
 
 ---
 
