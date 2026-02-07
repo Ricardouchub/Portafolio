@@ -8,14 +8,14 @@ Aquí encontrarás un resumen de mis proyectos en **Análisis de Datos, Dashboar
 
 | Proyecto | Herramientas | Descripción breve |
 |---|---|---|
-| [Europe Development Visualizer](https://github.com/Ricardouchub/Europe-Development-Visualizer) | Dash, Plotly, Pandas, World Bank API | *Dashboard* web que compara indicadores de desarrollo entre países europeos con datos en tiempo real. |
-| [Latin America Development](https://github.com/Ricardouchub/Visualizador-de-Desarrollo-de-Latinoamerica) | Dash, Plotly, GeoPandas | Visualizador interactivo de indicadores socioeconómicos para Latinoamérica con actualizaciones en vivo. |
-| [Precios al Consumidor - Chile](https://github.com/Ricardouchub/Analisis-precio-consumidor) | Dash, Pandas, Seaborn | *Dashboard* que analiza la canasta del IPC chileno con más de 1.8M de registros de precios. |
 | [Emisiones Difusas - Chile](https://github.com/Ricardouchub/Mapa-Interactivo-de-Emisiones-por-Quemas-y-Combustion-en-Chile) | Streamlit, Plotly, Folium | Mapa interactivo de emisiones por quemas agrícolas, incendios forestales y combustión residencial en Chile. |
 | [Clima de Chile (2015-2025)](https://github.com/Ricardouchub/Proyecto-clima-Chile-API-dashboard) | Dash, Plotly, Open-Meteo API | Análisis climático de diez años para las 16 capitales regionales de Chile con *dashboard* interactivo. |
 | [Mercado Laboral Mundial en IA (2025)](https://public.tableau.com/app/profile/ricardo.urdaneta/viz/MercadoLaboralMundialenIA2025/MercadoLaboralMundialenIA2025?publish=yes) | Tableau | Análisis de oportunidades laborales en IA |
 | [Análisis del burnout en Tech](https://github.com/Ricardouchub/Analisis-del-Burnout-en-la-Industria-Tecnologica) | Power BI  | Análisis del burnout laboral en la industria tecnológica |
 | [Análisis del desempeño comercial Adidas EE.UU](https://github.com/Ricardouchub/adidas-dashboard-crecimiento-rentabilidad) | Google BigQuery - Looker Studio  | Análisis del desempeño comercial y margen operativo para Adidas EE.UU. (2020-2021) usando BigQuery y Looker Studio. |
+| [Precios al Consumidor - Chile](https://github.com/Ricardouchub/Analisis-precio-consumidor) | Dash, Pandas, Seaborn | *Dashboard* que analiza la canasta del IPC chileno con más de 1.8M de registros de precios. |
+| [Visualizador del Desarrollo Europeo](https://github.com/Ricardouchub/Europe-Development-Visualizer) | Dash, Plotly, Pandas, World Bank API | Visualizador interactivo que compara indicadores de desarrollo entre países europeos con datos en tiempo real. |
+| [Visualizador del Desarrollo Latinoamericano](https://github.com/Ricardouchub/Visualizador-de-Desarrollo-de-Latinoamerica) | Dash, Plotly, GeoPandas | Visualizador interactivo de indicadores socioeconómicos para Latinoamérica con actualizaciones en vivo. |
 
 ---
 
