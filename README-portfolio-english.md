@@ -4,6 +4,21 @@ Welcome to my data portfolio! Here you'll find a summary of my projects across *
 
 ---
 
+## Visualization & Dashboards
+
+| Project | Tools | Description |
+|---|---|---|
+| [Europe Development Visualizer](https://github.com/Ricardouchub/Europe-Development-Visualizer) | Dash, Plotly, Pandas, World Bank API | Web dashboard comparing development indicators across European countries using live data. |
+| [Latin America Development](https://github.com/Ricardouchub/Visualizador-de-Desarrollo-de-Latinoamerica) | Dash, Plotly, GeoPandas | Interactive visualizer of socioeconomic indicators for Latin America with real-time updates. |
+| [Consumer Prices - Chile](https://github.com/Ricardouchub/Analisis-precio-consumidor) | Dash, Pandas, Seaborn | Dashboard analyzing Chile's consumer basket with more than 1.8M price records. |
+| [Diffuse Emissions - Chile](https://github.com/Ricardouchub/Mapa-Interactivo-de-Emisiones-por-Quemas-y-Combustion-en-Chile) | Streamlit, Plotly, Folium | Interactive map showing emissions from agricultural burning, wildfires, and wood combustion in Chile. |
+| [Chile Weather (2015-2025)](https://github.com/Ricardouchub/Proyecto-clima-Chile-API-dashboard) | Dash, Plotly, Open-Meteo API | Ten-year climate analysis across Chile's 16 regional capitals with an interactive dashboard. |
+| [Global AI Labor Market (2025)](https://public.tableau.com/app/profile/ricardo.urdaneta/viz/MercadoLaboralMundialenIA2025/MercadoLaboralMundialenIA2025?publish=yes) | Tableau | Analysis of job opportunities in AI |
+| [Tech Industry Burnout Analysis](https://github.com/Ricardouchub/Analisis-del-Burnout-en-la-Industria-Tecnologica) | Power BI  | Analysis of workplace burnout in the technology industry |
+| [Adidas EE.UU Sales Performance Analysis](https://github.com/Ricardouchub/adidas-dashboard-crecimiento-rentabilidad) | Google BigQuery - Looker Studio  | Analysis of sales performance and operating margin for Adidas EE.UU. (2020-2021) using BigQuery and Looker Studio.|
+
+---
+
 ## AI Agents & Automation
 
 | Project | Stack | Description |
@@ -15,7 +30,6 @@ Welcome to my data portfolio! Here you'll find a summary of my projects across *
 | [MCP Hub Personal](https://github.com/Ricardouchub/mcp-hub-personal) | Python, FastMCP | Custom MCP server that connects Gmail, Calendar, Drive, VSCode, and GitHub to agentic copilots. |
 | [Pokemon Showdown Battle AI Agent](https://github.com/Ricardouchub/pokemonshowdown-random-battle-ai-agent) | Python | Autonomous Agent designed to compete in Pokemon Showdown Random Battles. Hybrid architecture combines the speed of classical algorithms with the deep reasoning of LLMs |
 
-
 ---
 
 ## Generative AI & Modeling
@@ -26,18 +40,6 @@ Welcome to my data portfolio! Here you'll find a summary of my projects across *
 | [Sintetizador de Datos](https://github.com/Ricardouchub/Sintetizador-de-datos) | Python | Command-line tool that generates synthetic tabular datasets from CSV inputs while preserving core distributions. |
 | [Single-Image 3D Reconstruction](https://github.com/Ricardouchub/Single-Image-Reconstruccion-3D) | ResNet-18, PSGN, PyTorch | CNN encoder-decoder that lifts a single RGB frame into a 3D point cloud using point set generation. |
 | [Code Specialist 7B](https://github.com/Ricardouchub/code-specialist-7b) | Mistral-7B, LoRA, Hugging Face | Fine-tuned 7B LLM focused on Python and SQL reasoning for analytics and data science assistance. |
-
----
-
-## Visualization & Dashboards
-
-| Project | Tools | Description |
-|---|---|---|
-| [Europe Development Visualizer](https://github.com/Ricardouchub/Europe-Development-Visualizer) | Dash, Plotly, Pandas, World Bank API | Web dashboard comparing development indicators across European countries using live data. |
-| [Latin America Development](https://github.com/Ricardouchub/Visualizador-de-Desarrollo-de-Latinoamerica) | Dash, Plotly, GeoPandas | Interactive visualizer of socioeconomic indicators for Latin America with real-time updates. |
-| [Consumer Prices - Chile](https://github.com/Ricardouchub/Analisis-precio-consumidor) | Dash, Pandas, Seaborn | Dashboard analyzing Chile's consumer basket with more than 1.8M price records. |
-| [Diffuse Emissions - Chile](https://github.com/Ricardouchub/Mapa-Interactivo-de-Emisiones-por-Quemas-y-Combustion-en-Chile) | Streamlit, Plotly, Folium | Interactive map showing emissions from agricultural burning, wildfires, and wood combustion in Chile. |
-| [Chile Weather (2015-2025)](https://github.com/Ricardouchub/Proyecto-clima-Chile-API-dashboard) | Dash, Plotly, Open-Meteo API | Ten-year climate analysis across Chile's 16 regional capitals with an interactive dashboard. |
 
 ---
 
